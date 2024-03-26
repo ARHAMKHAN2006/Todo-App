@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(6, 23, 82);
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+ }
+ h1{
+    color: #fff;
+ }
+ .todo{
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+ }
+#todo{
+    text-align: center;
+    justify-content: center;
+}
+
+ input{
+    color: black;
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    color: wheat;
+    width: 60px;
+    height: 41px;
+    background-color: rgb(14, 206, 148);
+    color: white;
+    border: none;
+    cursor: pointer;
+     border-radius: 3px;
+    outline: none;
+    border-radius: 2px;
+    font-size: 20px;
+ }
+
+ .text ol i{
+    color: white;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+ }
+
+
+
+
+
+
+
+
+
+
